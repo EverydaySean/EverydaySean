@@ -2,7 +2,7 @@
 
 <h2>Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/EverydaySean/LABURL)
+  - [Active Directory Home Lab](https://github.com/EverydaySean/ActiveDirectoryLab)
   - [FIM (File Integrity Monitor)](https://github.com/EverydaySean/LABURL)
 
 <h2>Certifications </h2>
