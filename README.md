@@ -9,6 +9,8 @@
 
 - [Google IT Support](https://www.credly.com/badges/0d12f273-289a-4c8f-a225-8cfed4984d38/public_url)
 - [CompTIA A+ Certification](https://www.credly.com/badges/d11ac469-31c5-444e-83b4-cc3fc235a221/public_url)
+- [CompTIA Net+ Certification](https://www.credly.com/badges/4deccc1e-fd7c-43d1-bc47-bceecd4c91e3/public_url)
+- [CompTIA Sec+ Certification](https://www.credly.com/badges/b7fcac5e-04cf-4f0a-8eab-35cf0e0edbbf/public_url)
 
 <h2>YouTube videos</h2>
 
